@@ -1,7 +1,7 @@
 # Hang-man-Game
-A simple but fun game 
+A simple but fun game. 
 it is a word game , you simply have to guess the word in six chances.
-I haved added around 500 words , if you want to make the game more challenging add more words in the list in words.py.
+I have added around 500 words , if you want to make the game more challenging add more words in the list in words.py.
 To play the game , make sure to install python 3.
 Clone or download the folder , unzip it.
 Right click on game.py and click open with python.
