@@ -5,4 +5,4 @@ I have added around 500 words , if you want to make the game more challenging ad
 To play the game , make sure to install python 3.
 Clone or download the folder , unzip it.
 Right click on game.py and click open with python.
-Hope uyou all will enjoy the game , Thank you :) .
+Hope you all will enjoy the game , Thank you :) .
